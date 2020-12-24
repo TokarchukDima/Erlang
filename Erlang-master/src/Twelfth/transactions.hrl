@@ -1,0 +1,2 @@
+-author("makst").
+-record(muppet, {name, call_sign, salary}).

@@ -1,0 +1,3 @@
+-module('final-state_machine').
+-author("makst").
+-export([]).

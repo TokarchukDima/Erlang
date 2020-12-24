@@ -1,0 +1,3 @@
+{'*/*',
+    [{outdir,"../compiled"},
+    debug_info]}.

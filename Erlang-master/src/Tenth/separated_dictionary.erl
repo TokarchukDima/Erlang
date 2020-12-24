@@ -1,0 +1,3 @@
+-module(separated_dictionary).
+-author("makst").
+-export([]).
